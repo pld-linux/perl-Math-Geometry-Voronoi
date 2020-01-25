@@ -4,7 +4,6 @@
 #
 %define		pdir	Math
 %define		pnam	Geometry-Voronoi
-%include	/usr/lib/rpm/macros.perl
 Summary:	Math::Geometry::Voronoi - compute Voronoi diagrams from sets of points
 Name:		perl-Math-Geometry-Voronoi
 Version:	1.3
