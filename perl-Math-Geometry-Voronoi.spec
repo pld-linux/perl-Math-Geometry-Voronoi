@@ -7,7 +7,7 @@
 Summary:	Math::Geometry::Voronoi - compute Voronoi diagrams from sets of points
 Name:		perl-Math-Geometry-Voronoi
 Version:	1.3
-Release:	11
+Release:	12
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Math/%{pdir}-%{pnam}-%{version}.tar.gz
